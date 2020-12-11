@@ -1,8 +1,7 @@
 
-Command to run on the Centos 7
+1. Command to run on the Centos 7
 
-		1.1. Turn on the computer -> choose advanced options for centos 7 -> choose second one from
-the top
+		1.1. Turn on the computer -> choose advanced options for centos 7 -> choose second one from the top
 
 		1.2. Open the terminal and run following commands in given order
     
