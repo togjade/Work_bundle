@@ -1,0 +1,8 @@
+prefix=/home/user/ros_s/arhand/devel/.private/ar10_description
+
+Name: ar10_description
+Description: Description of ar10_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user/ros_s/arhand/devel/.private/ar10_description/lib 
+Requires: 

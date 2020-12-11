@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/user/ros_s/arhand/devel/.private/ar10_description/setup.sh

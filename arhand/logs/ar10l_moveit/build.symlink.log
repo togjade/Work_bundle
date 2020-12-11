@@ -1,0 +1,3 @@
+Symlinking /home/user/ros_s/arhand/devel/share/ar10l_moveit/cmake/ar10l_moveitConfig-version.cmake
+Symlinking /home/user/ros_s/arhand/devel/share/ar10l_moveit/cmake/ar10l_moveitConfig.cmake
+Symlinking /home/user/ros_s/arhand/devel/lib/pkgconfig/ar10l_moveit.pc

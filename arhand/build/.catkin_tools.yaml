@@ -1,0 +1,6 @@
+devel_space: /home/user/ros_s/arhand/devel
+install: false
+install_space: /home/user/ros_s/arhand/install
+profile: default
+source_space: /home/user/ros_s/arhand/src
+workspace: /home/user/ros_s/arhand

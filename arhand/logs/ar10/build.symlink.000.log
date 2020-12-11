@@ -1,0 +1,4 @@
+Symlinking /home/user/ros_s/arhand/devel/share/ar10/cmake/ar10Config-version.cmake
+Symlinking /home/user/ros_s/arhand/devel/share/ar10/cmake/ar10Config.cmake
+Symlinking /home/user/ros_s/arhand/devel/lib/pkgconfig/ar10.pc
+Symlinking /home/user/ros_s/arhand/devel/lib/python2.7/dist-packages/ros_ar10_class/__init__.py

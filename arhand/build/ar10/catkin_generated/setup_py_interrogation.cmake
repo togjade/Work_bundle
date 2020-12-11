@@ -1,0 +1,6 @@
+set(ar10_SETUP_PY_VERSION "0.0.0")
+set(ar10_SETUP_PY_SCRIPTS "")
+set(ar10_SETUP_PY_PACKAGES "ros_ar10_class")
+set(ar10_SETUP_PY_PACKAGE_DIRS "scripts/ros_ar10_class")
+set(ar10_SETUP_PY_MODULES "")
+set(ar10_SETUP_PY_MODULE_DIRS "")
