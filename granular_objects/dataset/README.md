@@ -11,7 +11,7 @@
   4. Number of squeezes
   
 ## ROS Packages
-  1. [Schuck_ezn64](http://wiki.ros.org/schunk_ezn64)
+  1. [Schuck_ezn64](https://github.com/SmartRoboticSystems/schunk_grippers)
   2. [vibrotactile](https://github.com/togjade/Work_bundle/tree/main/granular_objects/vibrotactile)
   
 ## ROS Packages were built using CATKIN BUILD
@@ -48,4 +48,7 @@
     
 				2.3.1.roslaunch gripper
                 
+# Saving the data
+	* Open new terminal:
+		* rosbag record /chatter
 
