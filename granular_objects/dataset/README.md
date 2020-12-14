@@ -49,6 +49,6 @@
 				2.3.1.roslaunch gripper
                 
 ## Saving the data
-	* Open new terminal:
-		* rosbag record /chatter
+* Open new terminal:
+	* rosbag record /chatter
 
