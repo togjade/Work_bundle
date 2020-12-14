@@ -24,7 +24,7 @@
 
 		1.2. Open the terminal and run following commands in given order
     
-				1.2.1. export ROS_MASTER_URI=http://10.1.71.79:11311  // to connect to the master node that is running on the second Ubuntu PC
+				1.2.1. export ROS_MASTER_URI=http://10.1.71.79:11311        %%to connect to the master node that is running on the second Ubuntu PC
         
 				1.2.2. export ROS _IP=10.1.70.233
         
@@ -38,11 +38,11 @@
         
 				2.1.2. source /home/user/catkin_ws/devel/setup.bash
         
-				2.1.3. roslaunch schunck_ezn64 ezn64_usb_control.launch  // launch the Schunk
+				2.1.3. roslaunch schunck_ezn64 ezn64_usb_control.launch   %%launch the Schunk
         
 		2.2. In 2nd terminal:
     
-				2.2.1. rosservice call /schunck_ezn64/reference  // move the Schunk to the reference position (opened position)
+				2.2.1. rosservice call /schunck_ezn64/reference           %%move the Schunk to the reference position (opened position)
         
 		2.3. In 3rd terminal:
     
