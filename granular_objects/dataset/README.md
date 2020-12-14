@@ -12,7 +12,7 @@
   
 ## ROS Packages
   1. [Schuck_ezn64](https://github.com/SmartRoboticSystems/schunk_grippers)
-  2. [vibrotactile](https://github.com/togjade/Work_bundle/tree/main/granular_objects/vibrotactile)
+  2. [vibrotactile](https://github.com/togjade/Work_bundle/tree/main/granular_objects/ROS_Packages/vibrotactile)
   
 ## ROS Packages were built using CATKIN BUILD
 ## Conducting the Experiments 
