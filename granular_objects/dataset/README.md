@@ -15,7 +15,7 @@
   2. [vibrotactile](https://github.com/togjade/Work_bundle/tree/main/granular_objects/vibrotactile)
   
 ## ROS Packages were built using CATKIN BUILD
-# Conducting the Experiments 
+## Conducting the Experiments 
   * Connect the gripper to the Power supply (24V).
   
 1. Command to run on the Centos 7
@@ -48,7 +48,7 @@
     
 				2.3.1.roslaunch gripper
                 
-# Saving the data
+## Saving the data
 	* Open new terminal:
 		* rosbag record /chatter
 
