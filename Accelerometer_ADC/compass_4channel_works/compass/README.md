@@ -4,6 +4,7 @@
 
 ## Run:
 * Double-click on compass_new file
+* Connect STM32 board to PC via "USB ST-link" port
 * Wait until it loads.
 * Click on debug button
 * After the program was uploaded connect to user port
