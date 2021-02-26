@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.4.1 -mcpu=cortex-m0 -mthumb -g -Map=compass_new.map -O0 --gc-sections -lm -lgcc -lc -LC:\CooCox\CoIDE\configuration\ProgramData\compass_new -TC:\CooCox\CoIDE\configuration\ProgramData\compass_new/arm-gcc-link.ld -g -L..\..\..\..\..\..\..\..\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\armv6-m -lm">
+      <target file="compass_new.elf" lastModified="177ce4b55cf">
+         <source file="..\..\..\..\..\..\..\..\Program Files (x86)\GNU Tools ARM Embedded\5.4 2016q3\arm-none-eabi\lib\armv6-m\libm.a" lastModified="157679207b0"/>
+         <source file="..\obj\MS5611.o" lastModified="177ce282bd5"/>
+         <source file="..\obj\usb_core.o" lastModified="177b3c91f17"/>
+         <source file="..\obj\stm32f30x_rcc.o" lastModified="177b3c91ff2"/>
+         <source file="..\obj\stm32f3_discovery_lsm303dlhc.o" lastModified="177b3c920b6"/>
+         <source file="..\obj\arm_common_tables.o" lastModified="177b3c92153"/>
+         <source file="..\obj\system_stm32f30x.o" lastModified="177b3c921aa"/>
+         <source file="..\obj\Periph_init.o" lastModified="177ce282ca9"/>
+         <source file="..\obj\usb_int.o" lastModified="177b3c922e9"/>
+         <source file="..\obj\usb_desc.o" lastModified="177ce4b53a7"/>
+         <source file="..\obj\usb_regs.o" lastModified="177b3c9243f"/>
+         <source file="..\obj\hw_config.o" lastModified="177ce282e3e"/>
+         <source file="..\obj\usb_prop.o" lastModified="177ce282f08"/>
+         <source file="..\obj\stm32f30x_gpio.o" lastModified="177b3c92676"/>
+         <source file="..\obj\usb_pwr.o" lastModified="177b3c926d8"/>
+         <source file="..\obj\usb_init.o" lastModified="177b3c92737"/>
+         <source file="..\obj\main.o" lastModified="177ce283096"/>
+         <source file="..\obj\stm32f30x_dma.o" lastModified="177b3c92936"/>
+         <source file="..\obj\stm32f30x_exti.o" lastModified="177b3c92998"/>
+         <source file="..\obj\stm32f30x_spi.o" lastModified="177b3c92a1f"/>
+         <source file="..\obj\stm32f30x_i2c.o" lastModified="177b3c92af6"/>
+         <source file="..\obj\arm_add_f32.o" lastModified="177b3c92b8b"/>
+         <source file="..\obj\usb_sil.o" lastModified="177b3c92bf0"/>
+         <source file="..\obj\system_stm32f30x_temp.o" lastModified="177b3c92c44"/>
+         <source file="..\obj\syscalls.o" lastModified="177b3c92c8e"/>
+         <source file="..\obj\stm32f30x_misc.o" lastModified="177b3c92d2a"/>
+         <source file="..\obj\stm32f30x_tim.o" lastModified="177b3c92ddc"/>
+         <source file="..\obj\arm_cos_f32.o" lastModified="177b3c92e4c"/>
+         <source file="..\obj\stm32_it.o" lastModified="177ce283162"/>
+         <source file="..\obj\usb_endp.o" lastModified="177ce28321f"/>
+         <source file="..\obj\startup_stm32f30x.o" lastModified="177b3c93004"/>
+         <source file="..\obj\stm32f30x_syscfg.o" lastModified="177b3c930bb"/>
+         <source file="..\obj\Kalman.o" lastModified="177b3c932ab"/>
+         <source file="..\obj\arm_sin_f32.o" lastModified="177b3c93302"/>
+         <source file="..\obj\Quaternion.o" lastModified="177b3c93370"/>
+         <source file="..\obj\usb_mem.o" lastModified="177b3c933cd"/>
+         <source file="..\obj\stm32f3_discovery.o" lastModified="177b3c93438"/>
+         <source file="..\obj\usb_istr.o" lastModified="177ce2832eb"/>
+         <source file="..\obj\stm32f30x_usart.o" lastModified="177b3c93582"/>
+         <source file="..\obj\arm_mult_f32.o" lastModified="177b3c93627"/>
+      </target>
+   </processor>
+</history>
